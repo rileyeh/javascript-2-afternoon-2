@@ -19,6 +19,10 @@ var arr = [10,20,30];
 
 //Code Here
 
+function first(arr) {
+  return arr[1]
+}
+
 
 
 ////////// PROBLEM 2 //////////
@@ -78,6 +82,18 @@ var nums = [1,2,3,6,22,98,45,23,22,12];
 */
 
 //Code Here
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
